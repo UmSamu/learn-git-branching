@@ -1,2 +1,2 @@
 # learn-git-branching
-Aprendendo mais sobre comenado Git
+Aprendendo mais sobre comandos Git
